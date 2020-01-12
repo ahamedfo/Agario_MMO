@@ -10,4 +10,4 @@ https://www.youtube.com/watch?v=f7UKk3Io-ZA
 # Details
 :heavy_check_mark: Authentication System
 
-Markup : * Bullet list
+* Bullet list
