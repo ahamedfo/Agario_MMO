@@ -16,3 +16,7 @@ https://www.youtube.com/watch?v=f7UKk3Io-ZA
 * Use of the ScalaFX as well as javafx libraries
 * Calls from the GUI to the server 
 
+:heavy_check_mark: Server
+* User information sent to authentication system as a JSON string
+* TCP Sockets Initialize the state of the user 
+* Implementation of Flask microframework 
